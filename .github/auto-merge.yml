@@ -1,0 +1,6 @@
+minApprovals:
+  OWNER: 1
+
+blockingTitleRegex: '\bWIP\b'
+
+updateBranch: true
